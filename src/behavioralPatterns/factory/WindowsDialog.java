@@ -1,4 +1,4 @@
-package behavioralPatterns.factoryPattern;
+package behavioralPatterns.factory;
 
 public class WindowsDialog extends Dialog {
     private String titleText;
