@@ -8,12 +8,12 @@ import structuralPatterns.bridge.remote.BasicRemote;
 
 public class Main {
 
-    private static void main(String[] args) {
+    public static void main(String[] args) {
         testDevice(new Tv());
         testDevice(new Radio());
     }
 
-    public static void testDevice(Device device) {
+    private static void testDevice(Device device) {
         System.out.println("Tests with basic remote.");
         BasicRemote basicRemote = new BasicRemote(device);
         basicRemote.power();
