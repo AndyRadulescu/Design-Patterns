@@ -1,4 +1,4 @@
-package behavioralPatterns.adapter;
+package structuralPatterns.adapter;
 
 public class RoundPeg {
     private double radius;
