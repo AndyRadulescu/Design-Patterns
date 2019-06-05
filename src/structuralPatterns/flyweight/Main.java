@@ -1,4 +1,4 @@
-package structuralPatterns.Flyweight;
+package structuralPatterns.flyweight;
 
 import java.awt.*;
 

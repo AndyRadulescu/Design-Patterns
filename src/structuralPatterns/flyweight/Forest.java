@@ -1,4 +1,4 @@
-package structuralPatterns.Flyweight;
+package structuralPatterns.flyweight;
 
 import javax.swing.*;
 import java.awt.*;
